@@ -1,14 +1,20 @@
 {
-    " сообщения " : [
-      { " id " : 1 , " title " : " Post 1 " },
-      { " id " : 2 , " title " : " Post 2 " },
-      { " id " : 3 , " title " : " Post 3 " }
+    "nationalityList" : [
+      { "item" : "Japan" ,  "value": "1652" },
+      { "item" : "Belarus" ,  "value": "3" },
+      { "item" : "Russia" ,  "value": "212" },
+      { "item" : "USA" ,  "value": "33" },
+      { "item" : "Vietnam" ,  "value": "216" },
+      { "item" : "etc" ,  "value": "48" }
     ],
-    " комментарии " : [
-      { " id " : 1 , " body " : " некоторый комментарий " , " postId " : 1 },
-      { " id " : 2 , " body " : " некоторый комментарий " , " postId " : 1 }
-    ],
-    " профиль " : {
-      " имя " : " типикод "
+
+    "analytics" : {
+        "registeredUsers": "2262",
+        "japanseUsers": "2262",
+        "foreignUsers": "2262",
+        "quantityJapan": "2262",
+        "quantityOverseas": "1058"
+
     }
-  }
+    
+}
